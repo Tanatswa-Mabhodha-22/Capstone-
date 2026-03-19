@@ -46,6 +46,14 @@ public class Booking {
         return totalCost;
     }
 
+    //METHODS TO USE
+    public int calculateRentalDuration(){
+         return 1;
+    }
+
+    public void extendRental(String newEndDate) {
+         this.endDate = newEndDate;
+    }
 
     @Override
     public String toString() {
