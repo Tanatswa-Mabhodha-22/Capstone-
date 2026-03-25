@@ -6,6 +6,7 @@ import za.ac.cput.domain.Booking;
 import static org.junit.Assert.assertNotNull;
 
 public class BookingFactoryTest {
+
     @Test
     public void buildBooking() {
 
@@ -22,4 +23,3 @@ public class BookingFactoryTest {
         System.out.println(booking);
     }
 }
-

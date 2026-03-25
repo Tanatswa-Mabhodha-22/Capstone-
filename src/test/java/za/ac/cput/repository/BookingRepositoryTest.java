@@ -1,10 +1,10 @@
 package za.ac.cput.repository;
 
-import org.junit.jupiter.api.Test;
+
 import za.ac.cput.domain.Booking;
 import za.ac.cput.factory.BookingFactory;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 public class BookingRepositoryTest {
 
@@ -41,7 +41,6 @@ public class BookingRepositoryTest {
         assertNotNull(readBooking);
         System.out.println(readBooking);
     }
-
 
 
 }
