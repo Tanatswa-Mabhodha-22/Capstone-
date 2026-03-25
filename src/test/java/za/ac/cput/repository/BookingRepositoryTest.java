@@ -1,6 +1,7 @@
 package za.ac.cput.repository;
 
 
+import org.junit.jupiter.api.Test;
 import za.ac.cput.domain.Booking;
 import za.ac.cput.factory.BookingFactory;
 
@@ -10,6 +11,7 @@ public class BookingRepositoryTest {
 
     private IBooking repository = IBooking.getRepository();
 
+@Test
     public void create () {
         Booking booking = BookingFactory.buildBooking(
                 "B001",
@@ -25,7 +27,7 @@ public class BookingRepositoryTest {
 
         System.out.println(created);
     }
-
+@Test
     public void read(){
         Booking booking = BookingFactory.buildBooking(
                 "B002",
