@@ -75,4 +75,5 @@ src/
 
 # Car Rental System
 #UML Class Diagram
-<img width="2396" height="1224" alt="Flowchart (1)" src="https://github.com/user-attachments/assets/c43bcd07-c828-4be3-a6f1-0911fa70e54f" />
+<img width="2614" height="1402" alt="Flowchart (2)" src="https://github.com/user-attachments/assets/249814ef-30b9-43cf-94b0-e8eb552b1be5" />
+
