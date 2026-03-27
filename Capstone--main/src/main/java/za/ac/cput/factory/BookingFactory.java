@@ -1,3 +1,8 @@
+/* BookingFactory.java
+BookingFactory model class
+Author: Tanatswa Mabhodha (220637482)
+Date: 20 March 2026
+*/
 package za.ac.cput.factory;
 
 import za.ac.cput.domain.Booking;
