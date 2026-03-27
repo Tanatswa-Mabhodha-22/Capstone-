@@ -1,7 +1,7 @@
 /*Booking.java
 Booking model class
 Author: Tanatswa Mabhodha(220637482)
-Date: 23 March 2026
+Date: 20 March 2026
  */
 
 package za.ac.cput.domain;
