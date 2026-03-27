@@ -25,6 +25,16 @@ Test Driven Development (TDD) is applied throughout the project.
 
 ---
 
+## Group Members Github Links
+- Tanatswa Mabhodha - https://github.com/Tanatswa-Mabhodha-22/Capstone-.git
+- Thandeka Chantal Malande - https://github.com/ThandekaChantal
+- Stephanie Lewu - https://github.com/stephanie-lewu/Capstone-
+- Malwandla Blessing Mahori - https://github.com/MalBl3ssing/Capstone-.git
+- Owen Jnr Makene **(Contributer)** - https://github.com/stephanie-lewu/Capstone-.git
+- Solomon Elias Machaule - https://github.com/solomon2608/Capstone-.git
+
+---
+
 ## How The System Works
 - A **Member** registers on the system with their personal details
 - The member browses available **Cars** at a **Branch**
@@ -98,16 +108,6 @@ are functioning as expected before the code is merged.
 - **Insurance** - Thandeka Chantal Malande (222857005)
 - **Car** - Malwandla Blessing Mahori (230962963)
 - **Branch** - Solomon Elias Machaule (222359366)
-
----
-
-## Group Members Github Links
-- Tanatswa Mabhodha - https://github.com/Tanatswa-Mabhodha-22/Capstone-.git
-- Thandeka Chantal Malande - https://github.com/ThandekaChantal
-- Stephanie Lewu - https://github.com/stephanie-lewu/Capstone-
-- Malwandla Blessing Mahori - https://github.com/MalBl3ssing/Capstone-.git
-- Owen Jnr Makene **(Contributer)** - https://github.com/stephanie-lewu/Capstone-.git
-- Solomon Elias Machaule - https://github.com/solomon2608/Capstone-.git
 
 ---
 
